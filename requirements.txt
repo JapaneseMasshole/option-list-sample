@@ -1,0 +1,6 @@
+pandas
+python-dateutil
+ipykernel
+ipython
+ipywidgets
+jupyterlab
